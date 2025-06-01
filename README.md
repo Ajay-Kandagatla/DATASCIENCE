@@ -1,7 +1,7 @@
 # DATASCIENCE
 Step for Deployment 
 
-1 Use cd.. and goto
+Step 1 Use cd.. and goto
 C:>cd folder
 
 Step 2 Go to Destination Folder
